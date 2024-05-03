@@ -1,0 +1,5 @@
+{
+  "CodeGPT.Autocomplete.enabled": true,
+  "CodeGPT.Autocomplete.maxTokens": 5000,
+  "CodeGPT.apiKey": "Ollama"
+}
